@@ -1,2 +1,2 @@
-FROM gcr.io/spinnaker-marketplace/orca:0.10.0-20180221133510
-LABEL version="0.10.0-20180221133510"
+FROM gcr.io/spinnaker-marketplace/orca:1.0.0-20180814155153
+LABEL version="1.0.0-20180814155153"
